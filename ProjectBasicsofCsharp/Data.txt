@@ -1,0 +1,10 @@
+Name: Ankit, Age: 21, Dept: Traniee
+Name: Shaswat, Age: 21, Dept: Devops
+Name: Yash, Age: 21, Dept: Traniee
+Name: John, Age: 21, Dept: CD
+Name: Adam, Age: 21, Dept: IT
+Name: Ram, Age: 27, Dept: Traniee
+Name: Shas, Age: 28, Dept: Devops
+Name: Allen, Age: 24, Dept: Traniee
+Name: Jonty, Age: 29, Dept: CD
+Name: jitesh, Age: 26, Dept: IT
