@@ -6,8 +6,9 @@ namespace ProjectBasicsofCsharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Project started");
-            Fileprogram.Do();
+            //Console.WriteLine("Project started");
+            //Fileprogram.Do();
+            Project2.Do();
         }
     }
 }
